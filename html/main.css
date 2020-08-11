@@ -1,0 +1,42 @@
+body{
+	background-color: #ccc;
+	color:#fff;
+	font-family: arial;
+}
+
+.cont{
+	max-width: 1000px;
+	min-height:200px;
+	margin: 0 auto;
+	background-color: #fff;
+}
+.my_panel{
+	width: 33.33%;
+	float: left;
+}
+.my-cont{
+	front-size:5vW;
+	margin: 0;
+	padding: 0;
+}
+.one{
+	background-color: lightgreen;
+	min-height: 100px;
+	padding:20px;
+}
+.two{
+	background-color:green;
+	min-height: 100px;
+	padding:20px;
+
+}
+.three{
+	background-color: darkgreen;
+	min-height: 100px;
+	padding:20px;
+	
+}
+p{
+	color:#fff;
+	font-size: 15px;
+}
